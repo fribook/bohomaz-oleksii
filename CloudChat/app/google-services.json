@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3295928115",
+    "firebase_url": "https://cloudchat-9855a.firebaseio.com",
+    "project_id": "cloudchat-9855a",
+    "storage_bucket": "cloudchat-9855a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3295928115:android:09571e1e6d8795c6ca2846",
+        "android_client_info": {
+          "package_name": "com.thorproject.cloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3295928115-3rloeb81dkhei3cll04jod1oo7l6h3h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thorproject.cloudchat",
+            "certificate_hash": "06d097b93adc693c72b4f4d01b6fe90b6345be36"
+          }
+        },
+        {
+          "client_id": "3295928115-9fg4fj9ej2tnhdrkkl3ft13goropc5ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5Q_aw4lti6fAFJPODmJ8RHUieZ4lvvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3295928115-9fg4fj9ej2tnhdrkkl3ft13goropc5ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
